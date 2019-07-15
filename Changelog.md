@@ -7,3 +7,8 @@ Added :
 
 - Calc.js + Test .js
 
+## V0.2.0
+
+Added : 
+
+- Using math.js for CALC
