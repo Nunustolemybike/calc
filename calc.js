@@ -1,21 +1,18 @@
+const math=require('mathjs')
 module.exports= {
  add:function(x,y) {
-x=x+y
-return x
+return math.add (x,y)
 },
 
  substract:function(x,y){
-x=x-y
-return x
+return math.subtract(x,y)
 },
 
   multiply:function(x,y){
-x=x*y
-return x
+return math.multiply(x,y)
 },
 
   divide:function(x,y){
-x=x/y
-return x
+return math.divide(x,y)
 }
 };
