@@ -14,5 +14,9 @@ return math.multiply(x,y)
 
   divide:function(x,y){
 return math.divide(x,y)
-}
+},
+
+  abs:function(x,y){
+return math.abs(x)
+  }
 };

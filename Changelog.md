@@ -12,3 +12,9 @@ Added :
 Added : 
 
 - Using math.js for CALC
+
+## V0.2.1
+
+Added :
+
+- add ABS 
